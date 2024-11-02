@@ -1,0 +1,473 @@
+{
+    "id": "mygame",
+    "game_title": "Show #7315 - Friday, June 3, 2016",
+    "game_comments": "",
+    "game_complete": false,
+    "category_J_1": {
+        "category_name": "STATE CAPITAL NICKNAMES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "TAROT CARDS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "POLITICAL BOOKS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "MISSING MOVIE NAMES",
+        "category_comments": "(Alex: You fill in the gap.)",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "LIKE A G-6",
+        "category_comments": "(Alex: Each correct response will begin with a \"G\" and have six letters.)",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "KANSAS CITY BARBEQUE",
+        "category_comments": "(Kelly: Some say it's the best in the country, and some say the best in the city is here at Arthur Bryant's.)",
+        "media": [
+            "http://localhost:3000/media/2016-06-03_J_Cat6.jpg"
+        ],
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "302140",
+        "clue_html": "&quot;The City of Paul Revere&quot;",
+        "clue_text": "\"The City of Paul Revere\"",
+        "correct_response": "Boston"
+    },
+    "clue_J_2_1": {
+        "id": "302145",
+        "clue_html": "No. 10:<br>Pat &amp; Vanna lead the fun",
+        "clue_text": "No. 10:Pat & Vanna lead the fun",
+        "correct_response": "the Wheel of Fortune"
+    },
+    "clue_J_3_1": {
+        "id": "302150",
+        "clue_html": "&quot;The Craft of Intelligence&quot; by Allen W. Dulles drew upon his years as the director of this from 1953 to 1961",
+        "clue_text": "\"The Craft of Intelligence\" by Allen W. Dulles drew upon his years as the director of this from 1953 to 1961",
+        "correct_response": "the CIA"
+    },
+    "clue_J_4_1": {
+        "id": "302155",
+        "clue_html": "A totally righteous time-travel movie:<br>&quot;____ &amp; ____&apos;s Excellent Adventure&quot;",
+        "clue_text": "A totally righteous time-travel movie:\"____ & ____'s Excellent Adventure\"",
+        "correct_response": "Bill & Ted"
+    },
+    "clue_J_5_1": {
+        "id": "302160",
+        "clue_html": "It&apos;s a flat, padded stretcher with legs &amp; wheels for transporting patients",
+        "clue_text": "It's a flat, padded stretcher with legs & wheels for transporting patients",
+        "correct_response": "a gurney"
+    },
+    "clue_J_6_1": {
+        "id": "302165",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_06.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Kansas City <a href=\"http://www.j-archive.com/media/2016-06-03_J_06a.jpg\" target=\"_blank\">barbeque sauce</a> is typically sweet &amp; tangy: sweet from brown sugar &amp;/or molasses, &amp; tangy from this, usually the cider or white type",
+        "clue_text": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Kansas City barbeque sauce is typically sweet & tangy: sweet from brown sugar &/or molasses, & tangy from this, usually the cider or white type",
+        "correct_response": "vinegar",
+        "media": [
+            "http://localhost:3000/media/2016-06-03_J_06.jpg",
+            "http://localhost:3000/media/2016-06-03_J_06a.jpg"
+        ]
+    },
+    "clue_J_1_2": {
+        "id": "302141",
+        "clue_html": "&quot;Broncoville&quot;",
+        "clue_text": "\"Broncoville\"",
+        "correct_response": "Denver"
+    },
+    "clue_J_2_2": {
+        "id": "302146",
+        "clue_html": "No. 7:<br>An ancient wheeled transport of war",
+        "clue_text": "No. 7:An ancient wheeled transport of war",
+        "correct_response": "a chariot"
+    },
+    "clue_J_3_2": {
+        "id": "302151",
+        "clue_html": "In 2002 this former New York City mayor published &quot;Leadership&quot;",
+        "clue_text": "In 2002 this former New York City mayor published \"Leadership\"",
+        "correct_response": "Giuliani"
+    },
+    "clue_J_4_2": {
+        "id": "302156",
+        "clue_html": "Vince Vaughn is Santa&apos;s brother:<br>&quot;____ Claus&quot;",
+        "clue_text": "Vince Vaughn is Santa's brother:\"____ Claus\"",
+        "correct_response": "Fred"
+    },
+    "clue_J_5_2": {
+        "id": "302161",
+        "clue_html": "An evil, greedy type of creature in folklore, he also appears in &quot;Dungeons &amp; Dragons&quot;",
+        "clue_text": "An evil, greedy type of creature in folklore, he also appears in \"Dungeons & Dragons\"",
+        "correct_response": "a goblin"
+    },
+    "clue_J_6_2": {
+        "id": "302166",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_07.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Some people call them racks, but Arthur Bryant&apos;s serves their ribs in <a href=\"http://www.j-archive.com/media/2016-06-03_J_07a.jpg\" target=\"_blank\">these</a> thick, meaty units",
+        "clue_text": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Some people call them racks, but Arthur Bryant's serves their ribs in these thick, meaty units",
+        "correct_response": "slabs",
+        "media": [
+            "http://localhost:3000/media/2016-06-03_J_07.jpg",
+            "http://localhost:3000/media/2016-06-03_J_07a.jpg"
+        ]
+    },
+    "clue_J_1_3": {
+        "id": "302142",
+        "daily_double": true,
+        "clue_html": "&quot;The Gateway to Glacier Bay National Park&quot;",
+        "clue_text": "\"The Gateway to Glacier Bay National Park\"",
+        "correct_response": "Juneau (Alaska)"
+    },
+    "clue_J_2_3": {
+        "id": "302147",
+        "clue_html": "No. 17:<br>Alpha or Beta in Aquarius",
+        "clue_text": "No. 17:Alpha or Beta in Aquarius",
+        "correct_response": "a star"
+    },
+    "clue_J_3_3": {
+        "id": "302152",
+        "clue_html": "Doris Kearns Goodwin&apos;s &quot;Team of Rivals: The Political Genius of&quot; this man was one basis for a Spielberg film",
+        "clue_text": "Doris Kearns Goodwin's \"Team of Rivals: The Political Genius of\" this man was one basis for a Spielberg film",
+        "correct_response": "Lincoln"
+    },
+    "clue_J_4_3": {
+        "id": "302157",
+        "clue_html": "Applause for Bette Davis:<br>&quot;All About ____&quot;",
+        "clue_text": "Applause for Bette Davis:\"All About ____\"",
+        "correct_response": "Eve"
+    },
+    "clue_J_5_3": {
+        "id": "302162",
+        "clue_html": "A diver can perform a full or half this",
+        "clue_text": "A diver can perform a full or half this",
+        "correct_response": "a gainer"
+    },
+    "clue_J_6_3": {
+        "id": "302167",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_08.jpg\" target=\"_blank\">Kelly of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Containing a mixture of herbs &amp; spices including salt, garlic &amp; paprika, it&apos;s the two-word term for <a href=\"http://www.j-archive.com/media/2016-06-03_J_08a.jpg\" target=\"_blank\">what goes on the ribs first</a>",
+        "clue_text": "(Kelly of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Containing a mixture of herbs & spices including salt, garlic & paprika, it's the two-word term for what goes on the ribs first",
+        "correct_response": "dry rub",
+        "media": [
+            "http://localhost:3000/media/2016-06-03_J_08.jpg",
+            "http://localhost:3000/media/2016-06-03_J_08a.jpg"
+        ]
+    },
+    "clue_J_1_4": {
+        "id": "302143",
+        "clue_html": "&quot;The Queen on the James&quot;",
+        "clue_text": "\"The Queen on the James\"",
+        "correct_response": "Richmond (Virginia)"
+    },
+    "clue_J_2_4": {
+        "id": "302148",
+        "clue_html": "No. 4:<br>Napoleon, starting on Dec. 2, 1804",
+        "clue_text": "No. 4:Napoleon, starting on Dec. 2, 1804",
+        "correct_response": "emperor"
+    },
+    "clue_J_3_4": {
+        "id": "302153",
+        "clue_html": "He would know<span class=\"nobreak\">--</span>Henry Kissinger penned &quot;Years of Upheaval&quot;, &quot;On China&quot; &amp; &quot;Ending&quot; this conflict",
+        "clue_text": "He would know--Henry Kissinger penned \"Years of Upheaval\", \"On China\" & \"Ending\" this conflict",
+        "correct_response": "the Vietnam War"
+    },
+    "clue_J_4_4": {
+        "id": "302158",
+        "clue_html": "A post-apocalyptic tale starring Denzel:<br>&quot;The Book of ____&quot;",
+        "clue_text": "A post-apocalyptic tale starring Denzel:\"The Book of ____\"",
+        "correct_response": "Eli"
+    },
+    "clue_J_5_4": {
+        "id": "302163",
+        "clue_html": "To move in a circle, or around a fixed point",
+        "clue_text": "To move in a circle, or around a fixed point",
+        "correct_response": "gyrate"
+    },
+    "clue_J_6_4": {
+        "id": "302168",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_09a.jpg\" target=\"_blank\">Kelly of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Contributing to the meat&apos;s flavor is the type of wood used in the smoker; <a href=\"http://www.j-archive.com/media/2016-06-03_J_09.jpg\" target=\"_blank\">here</a>, it&apos;s a combination of oak &amp; this common hardwood, popular for traditional barbeque flavor",
+        "clue_text": "(Kelly of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Contributing to the meat's flavor is the type of wood used in the smoker; here, it's a combination of oak & this common hardwood, popular for traditional barbeque flavor",
+        "correct_response": "hickory",
+        "media": [
+            "http://localhost:3000/media/2016-06-03_J_09a.jpg",
+            "http://localhost:3000/media/2016-06-03_J_09.jpg"
+        ]
+    },
+    "clue_J_1_5": {
+        "id": "302144",
+        "triple_stumper": true,
+        "clue_html": "&quot;The Home of Frontier Days&quot;",
+        "clue_text": "\"The Home of Frontier Days\"",
+        "correct_response": "Cheyenne"
+    },
+    "clue_J_2_5": {
+        "id": "302149",
+        "clue_html": "No. 9:<br>Howard Hughes lived as one for the last years of his life",
+        "clue_text": "No. 9:Howard Hughes lived as one for the last years of his life",
+        "correct_response": "a hermit"
+    },
+    "clue_J_3_5": {
+        "id": "302154",
+        "triple_stumper": true,
+        "clue_html": "His criticism of Dick Cheney &amp; Donald Rumsfeld in the 2015 bio &quot;Destiny and Power&quot; made news",
+        "clue_text": "His criticism of Dick Cheney & Donald Rumsfeld in the 2015 bio \"Destiny and Power\" made news",
+        "correct_response": "George H.W. Bush"
+    },
+    "clue_J_4_5": {
+        "id": "302159",
+        "clue_html": "A comedic marriage of Adam Sandler &amp; Kevin James:<br>&quot;I Now Pronounce You ____ &amp; ____&quot;",
+        "clue_text": "A comedic marriage of Adam Sandler & Kevin James:\"I Now Pronounce You ____ & ____\"",
+        "correct_response": "Chuck & Larry"
+    },
+    "clue_J_5_5": {
+        "id": "302164",
+        "clue_html": "Crudely showy or tastelessly colorful",
+        "clue_text": "Crudely showy or tastelessly colorful",
+        "correct_response": "garish"
+    },
+    "clue_J_6_5": {
+        "id": "302169",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_10.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  They sound overdone &amp; like something that might be discarded, but a specialty of Kansas City barbeque are <a href=\"http://www.j-archive.com/media/2016-06-03_J_10a.jpg\" target=\"_blank\">these</a> crusty cubes of brisket",
+        "clue_text": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  They sound overdone & like something that might be discarded, but a specialty of Kansas City barbeque are these crusty cubes of brisket",
+        "correct_response": "burnt ends",
+        "media": [
+            "http://localhost:3000/media/2016-06-03_J_10.jpg",
+            "http://localhost:3000/media/2016-06-03_J_10a.jpg"
+        ]
+    },
+    "category_DJ_1": {
+        "category_name": "THE MAN WHO WOULD BE KING",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "3 VOWELS IN A ROW",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "TV IN ALL FORMS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "C.T.",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "SCAN",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "IT'S NOT A TUMOR",
+        "category_comments": "(Alex: Good news...)",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "302170",
+        "clue_html": "The sun nearly went out when this child king of France was left unsupervised &amp; almost drowned",
+        "clue_text": "The sun nearly went out when this child king of France was left unsupervised & almost drowned",
+        "correct_response": "Louis XIV"
+    },
+    "clue_DJ_2_1": {
+        "id": "302175",
+        "clue_html": "A Maui food feast",
+        "clue_text": "A Maui food feast",
+        "correct_response": "a luau"
+    },
+    "clue_DJ_3_1": {
+        "id": "302180",
+        "clue_html": "Bob Odenkirk, in this spinoff:<br>&quot;Lawyers... we&apos;re like health insurance.  You hope you never need it&quot;",
+        "clue_text": "Bob Odenkirk, in this spinoff:\"Lawyers... we're like health insurance.  You hope you never need it\"",
+        "correct_response": "Better Call Saul"
+    },
+    "clue_DJ_4_1": {
+        "id": "302185",
+        "clue_html": "Insincere criers shed these",
+        "clue_text": "Insincere criers shed these",
+        "correct_response": "crocodile tears"
+    },
+    "clue_DJ_5_1": {
+        "id": "302190",
+        "clue_html": "To scan a poem is to analyze its meter; tetrameter lines like &quot;How still the bells in steeples stand&quot; have this many feet",
+        "clue_text": "To scan a poem is to analyze its meter; tetrameter lines like \"How still the bells in steeples stand\" have this many feet",
+        "correct_response": "four"
+    },
+    "clue_DJ_6_1": {
+        "id": "302195",
+        "clue_html": "It&apos;s not a tumor, but these, aka renal calculi; often very painful until they pass",
+        "clue_text": "It's not a tumor, but these, aka renal calculi; often very painful until they pass",
+        "correct_response": "kidney stones"
+    },
+    "clue_DJ_1_2": {
+        "id": "302171",
+        "clue_html": "James II was converted to this faith before he became king; as a result, he was converted into an ex-king",
+        "clue_text": "James II was converted to this faith before he became king; as a result, he was converted into an ex-king",
+        "correct_response": "Catholicism"
+    },
+    "clue_DJ_2_2": {
+        "id": "302176",
+        "clue_html": "Instead of &quot;instead of&quot;, you can say &quot;in&quot; this &quot;of&quot;",
+        "clue_text": "Instead of \"instead of\", you can say \"in\" this \"of\"",
+        "correct_response": "lieu"
+    },
+    "clue_DJ_3_2": {
+        "id": "302181",
+        "clue_html": "Once a &quot;Desperate Housewife&quot; , today she stars in &quot;Telenovela&quot;, a sitcom poking fun at Latin American soap operas",
+        "clue_text": "Once a \"Desperate Housewife\" , today she stars in \"Telenovela\", a sitcom poking fun at Latin American soap operas",
+        "correct_response": "(Eva) Longoria"
+    },
+    "clue_DJ_4_2": {
+        "id": "302186",
+        "triple_stumper": true,
+        "clue_html": "She&apos;s the model &amp; TV host seen <a href=\"https://www.j-archive.com/media/2016-06-03_DJ_19.jpg\" target=\"_blank\">here</a>",
+        "clue_text": "She's the model & TV host seen here",
+        "correct_response": "Chrissy Teigen",
+        "media": [
+            "https://www.j-archive.com/media/2016-06-03_DJ_19.jpg"
+        ]
+    },
+    "clue_DJ_5_2": {
+        "id": "302191",
+        "clue_html": "There once was this verse form of 5 lines written in anapests, short-short-long",
+        "clue_text": "There once was this verse form of 5 lines written in anapests, short-short-long",
+        "correct_response": "Limerick"
+    },
+    "clue_DJ_6_2": {
+        "id": "302196",
+        "clue_html": "Relax, it&apos;s just a bone one of these, a spike-shaped outgrowth of bone tissue, on your heel",
+        "clue_text": "Relax, it's just a bone one of these, a spike-shaped outgrowth of bone tissue, on your heel",
+        "correct_response": "a spur"
+    },
+    "clue_DJ_1_3": {
+        "id": "302172",
+        "clue_html": "When his father was out of the country, teenage Philip II of Spain served as this, from Latin for &quot;rule&quot;",
+        "clue_text": "When his father was out of the country, teenage Philip II of Spain served as this, from Latin for \"rule\"",
+        "correct_response": "the regent"
+    },
+    "clue_DJ_2_3": {
+        "id": "302177",
+        "daily_double": true,
+        "clue_html": "These 2 words that fit the category precede &quot;amber waves of grain&quot; in song",
+        "clue_text": "These 2 words that fit the category precede \"amber waves of grain\" in song",
+        "correct_response": "beautiful & spacious"
+    },
+    "clue_DJ_3_3": {
+        "id": "302182",
+        "triple_stumper": true,
+        "clue_html": "Craig Ferguson handed off his late-night hosting job to this more jovial Brit",
+        "clue_text": "Craig Ferguson handed off his late-night hosting job to this more jovial Brit",
+        "correct_response": "James Corden"
+    },
+    "clue_DJ_4_3": {
+        "id": "302187",
+        "clue_html": "Blood vessels &amp; tendons pass through this narrow opening in the wrist",
+        "clue_text": "Blood vessels & tendons pass through this narrow opening in the wrist",
+        "correct_response": "the carpal tunnel"
+    },
+    "clue_DJ_5_3": {
+        "id": "302192",
+        "clue_html": "2 songs in common meter can easily swap tunes, like &quot;Amazing Grace&quot; &amp; this one about &quot;a house in New Orleans&quot;",
+        "clue_text": "2 songs in common meter can easily swap tunes, like \"Amazing Grace\" & this one about \"a house in New Orleans\"",
+        "correct_response": "\"House Of The Rising Sun\""
+    },
+    "clue_DJ_6_3": {
+        "id": "302197",
+        "clue_html": "An inflammation of the labyrinth in the inner ear is causing this sensation of dizziness",
+        "clue_text": "An inflammation of the labyrinth in the inner ear is causing this sensation of dizziness",
+        "correct_response": "vertigo"
+    },
+    "clue_DJ_1_4": {
+        "id": "302173",
+        "clue_html": "As a young man the II king of this name was already calling for Belgium to be a colonial power<span class=\"nobreak\">--</span>bad news for the Congo",
+        "clue_text": "As a young man the II king of this name was already calling for Belgium to be a colonial power--bad news for the Congo",
+        "correct_response": "(King) Leopold (of Belgium)"
+    },
+    "clue_DJ_2_4": {
+        "id": "302178",
+        "clue_html": "We&apos;re &quot;in line&quot;; Londoners are in one of these, which actually has 4 vowels in a row",
+        "clue_text": "We're \"in line\"; Londoners are in one of these, which actually has 4 vowels in a row",
+        "correct_response": "a queue"
+    },
+    "clue_DJ_3_4": {
+        "id": "302183",
+        "clue_html": "Maurice Benard, Carolyn Hennesy &amp; Kelly Monaco have all checked into this ABC daytime drama",
+        "clue_text": "Maurice Benard, Carolyn Hennesy & Kelly Monaco have all checked into this ABC daytime drama",
+        "correct_response": "General Hospital"
+    },
+    "clue_DJ_4_4": {
+        "id": "302188",
+        "clue_html": "Peter Rabbit&apos;s mom put him to bed &amp; gave him this beverage",
+        "clue_text": "Peter Rabbit's mom put him to bed & gave him this beverage",
+        "correct_response": "chamomile tea"
+    },
+    "clue_DJ_5_4": {
+        "id": "302193",
+        "clue_html": "It&apos;s a 2-syllable foot in which the second syllable is stressed, as in the word &quot;mistake&quot;",
+        "clue_text": "It's a 2-syllable foot in which the second syllable is stressed, as in the word \"mistake\"",
+        "correct_response": "an iamb"
+    },
+    "clue_DJ_6_4": {
+        "id": "302198",
+        "daily_double": true,
+        "clue_html": "Floaters in your field of vision can indicate this 2-word condition where a membrane is separated from underlying tissue",
+        "clue_text": "Floaters in your field of vision can indicate this 2-word condition where a membrane is separated from underlying tissue",
+        "correct_response": "detached retina"
+    },
+    "clue_DJ_1_5": {
+        "id": "302174",
+        "clue_html": "Queen Victoria&apos;s grandson, <a href=\"http://www.j-archive.com/media/2016-06-03_DJ_12.jpg\" target=\"_blank\">he</a> was born with a withered <a href=\"http://www.j-archive.com/media/2016-06-03_DJ_12a.jpg\" target=\"_blank\">left arm</a> that was often hidden in photographs",
+        "clue_text": "Queen Victoria's grandson, he was born with a withered left arm that was often hidden in photographs",
+        "correct_response": "Kaiser Wilhelm (II)",
+        "media": [
+            "http://localhost:3000/media/2016-06-03_DJ_12.jpg",
+            "http://localhost:3000/media/2016-06-03_DJ_12a.jpg"
+        ]
+    },
+    "clue_DJ_2_5": {
+        "id": "302179",
+        "clue_html": "&quot;Bang&quot; &amp; &quot;crash&quot; are examples of this long word, which also has 4 vowels in a row",
+        "clue_text": "\"Bang\" & \"crash\" are examples of this long word, which also has 4 vowels in a row",
+        "correct_response": "onomatopoeia"
+    },
+    "clue_DJ_3_5": {
+        "id": "302184",
+        "clue_html": "The 101st Airborne&apos;s Easy Company didn&apos;t have it so easy in this 2001 miniseries set during World War II",
+        "clue_text": "The 101st Airborne's Easy Company didn't have it so easy in this 2001 miniseries set during World War II",
+        "correct_response": "Band of Brothers"
+    },
+    "clue_DJ_4_5": {
+        "id": "302189",
+        "triple_stumper": true,
+        "clue_html": "IRS code 4947(a)(1) covers these entities; the Pew ones try to solve today&apos;s most challenging problems",
+        "clue_text": "IRS code 4947(a)(1) covers these entities; the Pew ones try to solve today's most challenging problems",
+        "correct_response": "charitable trusts"
+    },
+    "clue_DJ_5_5": {
+        "id": "302194",
+        "clue_html": "Accentual meter, based on the number of stresses, is used in this most famous poem in Old English",
+        "clue_text": "Accentual meter, based on the number of stresses, is used in this most famous poem in Old English",
+        "correct_response": "Beowulf"
+    },
+    "clue_DJ_6_5": {
+        "id": "302199",
+        "clue_html": "But it is a type of inflammatory bowel disease called ulcerative this",
+        "clue_text": "But it is a type of inflammatory bowel disease called ulcerative this",
+        "correct_response": "colitis"
+    },
+    "category_FJ_1": {
+        "category_name": "BUSINESS",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "This alliterative beverage chain says it gets its name from an African word meaning &quot;to celebrate&quot;",
+        "clue_text": "This alliterative beverage chain says it gets its name from an African word meaning \"to celebrate\"",
+        "correct_response": "Jamba Juice"
+    }
+}

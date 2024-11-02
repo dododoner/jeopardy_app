@@ -5,6 +5,9 @@
 var request = require('request');
 var cheerio = require('cheerio');
 var _ = require('lodash');
+const { response } = require('express');
+
+var jsonGame = require("../custom_game.json")
 
 function exportIndex (req, res, next) {
   return function (error, response, html) {
@@ -85,40 +88,43 @@ exports.season = function (req, res, next) {
 }
 
 exports.game = function (req, res, next) {
-  request('http://www.j-archive.com/showgame.php?game_id=' + req.params.id, function (error, response, html) {
-    if (!error) {
-      var $ = cheerio.load(html);
+  // request('http://www.j-archive.com/showgame.php?game_id=' + req.params.id, function (error, response, html) {
+  //   if (!error) {
+  //     var $ = cheerio.load(html);
 
-      var result = {
-        id: req.params.id,
-        game_title: $('#game_title').text(),
-        game_comments: $('#game_comments').text(),
-        game_complete: false
-      };
+  //     var result = {
+  //       id: req.params.id,
+  //       game_title: $('#game_title').text(),
+  //       game_comments: $('#game_comments').text(),
+  //       game_complete: false
+  //     };
 
-      _.assign(result,
-        exportRound($, $('#jeopardy_round'), 'J'),
-        exportRound($, $('#double_jeopardy_round'), 'DJ'),
-        exportRound($, $('#final_jeopardy_round'), 'FJ'));
+  //     _.assign(result,
+  //       exportRound($, $('#jeopardy_round'), 'J'),
+  //       exportRound($, $('#double_jeopardy_round'), 'DJ'),
+  //       exportRound($, $('#final_jeopardy_round'), 'FJ'));
 
-      result.game_complete = _.countBy(_.keys(result), function (n) {
-        return n.split('_')[0];
-      }).clue === (30 + 30 + 1);
+  //     result.game_complete = _.countBy(_.keys(result), function (n) {
+  //       return n.split('_')[0];
+  //     }).clue === (30 + 30 + 1);
 
-      var clueCounts = _.countBy(_.keys(result), function (n) {
-        return n.split('_').slice(0, 3).join('_');
-      });
+  //     var clueCounts = _.countBy(_.keys(result), function (n) {
+  //       return n.split('_').slice(0, 3).join('_');
+  //     });
 
-      _.forEach(result, function (n, key) {
-        if (_.startsWith(key, 'category')) {
-          n.clue_count = clueCounts[key.replace('category', 'clue')];
-        }
-      });
+  //     _.forEach(result, function (n, key) {
+  //       if (_.startsWith(key, 'category')) {
+  //         n.clue_count = clueCounts[key.replace('category', 'clue')];
+  //       }
+  //     });
 
-      res.json(result);
-    }
-    else {
-      next(error);
-    }
-  });
+  //     res.json(result);
+  //   }
+  //   else {
+  //     next(error);
+  //   }
+  // });
+
+  res.json(jsonGame);
+  
 }
