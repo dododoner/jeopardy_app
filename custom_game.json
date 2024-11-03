@@ -1,20 +1,22 @@
 {
     "id": "mygame",
-    "game_title": "Show #7315 - Friday, June 3, 2016",
+    "game_title": "IMW Custom Game",
     "game_comments": "",
     "game_complete": false,
+
+
     "category_J_1": {
-        "category_name": "STATE CAPITAL NICKNAMES",
+        "category_name": "BIELEFELD",
         "category_comments": "",
         "clue_count": 5
     },
     "category_J_2": {
-        "category_name": "TAROT CARDS",
+        "category_name": "IMW",
         "category_comments": "",
         "clue_count": 5
     },
     "category_J_3": {
-        "category_name": "POLITICAL BOOKS",
+        "category_name": "IMW INTERNATIONAL",
         "category_comments": "",
         "clue_count": 5
     },
@@ -36,36 +38,168 @@
         ],
         "clue_count": 5
     },
+
+
     "clue_J_1_1": {
         "id": "302140",
-        "clue_html": "&quot;The City of Paul Revere&quot;",
-        "clue_text": "\"The City of Paul Revere\"",
-        "correct_response": "Boston"
+        "clue_html": "Textile for which BI is known",
+        "clue_text": "Textile for which BI is known",
+        "correct_response": "Linen"
     },
+    "clue_J_1_2": {
+        "id": "302141",
+        "clue_html": "Kitchen appliance produced in BI",
+        "clue_text": "Kitchen appliance produced in BI",
+        "correct_response": "Dish Washer"
+    },
+    "clue_J_1_3": {
+        "id": "302142",
+        "clue_html": "With 338.410 inhabitants BI is this place on the list of largest German cities by inhabitants",
+        "clue_text": "With 338.410 inhabitants BI is this place on the list of largest German cities by inhabitants",
+        "correct_response": "18th"
+    },
+    "clue_J_1_4": {
+        "id": "302143",
+        "clue_html": "BI lies on this latitude",
+        "clue_text": "BI lies on this latitude",
+        "correct_response": "52 deg North"
+    },
+    "clue_J_1_5": {
+        "id": "302144",
+        "clue_html": "First documentary mention of BI",
+        "clue_text": "First documentary mention of BI",
+        "correct_response": "1256"
+    },
+
+
     "clue_J_2_1": {
         "id": "302145",
-        "clue_html": "No. 10:<br>Pat &amp; Vanna lead the fun",
-        "clue_text": "No. 10:Pat & Vanna lead the fun",
-        "correct_response": "the Wheel of Fortune"
+        "clue_html": "Building and floor of the new offices",
+        "clue_text": "Building and floor of the new offices",
+        "correct_response": "A4/B4"
     },
+    "clue_J_2_2": {
+        "id": "302146",
+        "clue_html": "This is the total number of IMW directors",
+        "clue_text": "This is the total number of IMW directors",
+        "correct_response": "5"
+    },
+    "clue_J_2_3": {
+        "id": "302147",
+        "clue_html": "These are the Master&apos;s programs are offered by the IMW",
+        "clue_text": "These are the Master's programs are offered by the IMW",
+        "correct_response": "WiMa and QE"
+    },
+    "clue_J_2_4": {
+        "id": "302148",
+        "clue_html": "On this day the IMW was founded",
+        "clue_text": "On this day the IMW was founded",
+        "correct_response": "November 10, 1970"
+    },
+    "clue_J_2_5": {
+        "id": "302149",
+        "clue_html": "Number of steps per case between floors 0 to 2",
+        "clue_text": "Number of steps per case between floors 0 to 2",
+        "correct_response": "14"
+    },
+
+
     "clue_J_3_1": {
         "id": "302150",
-        "clue_html": "&quot;The Craft of Intelligence&quot; by Allen W. Dulles drew upon his years as the director of this from 1953 to 1961",
-        "clue_text": "\"The Craft of Intelligence\" by Allen W. Dulles drew upon his years as the director of this from 1953 to 1961",
-        "correct_response": "the CIA"
+        "clue_html": "This is the name of the certificate needed to attain a Bachelor&apos;s degree in the Chinese university system",
+        "clue_text": "This is the name of the certificate needed to attain a Bachelor's degree in the Chinese university system",
+        "correct_response": "Benke (本科)"
     },
+    "clue_J_3_2": {
+        "id": "302151",
+        "clue_html": "On this continent the IMW has no scientific cooperation",
+        "clue_text": "On this continent the IMW has no scientific cooperation",
+        "correct_response": "Antarctica"
+    },
+    "clue_J_3_3": {
+        "id": "302152",
+        "clue_html": "This language, which can be found on the birthday cards by the department, is not spoken by anyone at the IMW",
+        "clue_text": "This language, which can be found on the birthday cards by the department, is not spoken by anyone at the IMW",
+        "correct_response": "Georgian"
+    },
+    "clue_J_3_4": {
+        "id": "302153",
+        "clue_html": "",
+        "clue_text": "",
+        "correct_response": ""
+    },
+    "clue_J_3_5": {
+        "id": "302154",
+        "clue_html": "This is the number of IMW members that have attended a university in a capital city that lies by the sea",
+        "clue_text": "This is the number of IMW members that have attended a university in a capital city that lies by the sea",
+        "correct_response": "4 (Prince: Accra, Ghana; Ioannis: Athens, Greece; Maren: Oslo, Norway; Lasse: Helsinki, Finland)"
+    },
+
+
     "clue_J_4_1": {
         "id": "302155",
         "clue_html": "A totally righteous time-travel movie:<br>&quot;____ &amp; ____&apos;s Excellent Adventure&quot;",
         "clue_text": "A totally righteous time-travel movie:\"____ & ____'s Excellent Adventure\"",
         "correct_response": "Bill & Ted"
     },
+    "clue_J_4_2": {
+        "id": "302156",
+        "clue_html": "Vince Vaughn is Santa&apos;s brother:<br>&quot;____ Claus&quot;",
+        "clue_text": "Vince Vaughn is Santa's brother:\"____ Claus\"",
+        "correct_response": "Fred"
+    },
+    "clue_J_4_3": {
+        "id": "302157",
+        "clue_html": "Applause for Bette Davis:<br>&quot;All About ____&quot;",
+        "clue_text": "Applause for Bette Davis:\"All About ____\"",
+        "correct_response": "Eve"
+    },
+    "clue_J_4_4": {
+        "id": "302158",
+        "clue_html": "A post-apocalyptic tale starring Denzel:<br>&quot;The Book of ____&quot;",
+        "clue_text": "A post-apocalyptic tale starring Denzel:\"The Book of ____\"",
+        "correct_response": "Eli"
+    },
+    "clue_J_4_5": {
+        "id": "302159",
+        "clue_html": "A comedic marriage of Adam Sandler &amp; Kevin James:<br>&quot;I Now Pronounce You ____ &amp; ____&quot;",
+        "clue_text": "A comedic marriage of Adam Sandler & Kevin James:\"I Now Pronounce You ____ & ____\"",
+        "correct_response": "Chuck & Larry"
+    },
+
+
     "clue_J_5_1": {
         "id": "302160",
         "clue_html": "It&apos;s a flat, padded stretcher with legs &amp; wheels for transporting patients",
         "clue_text": "It's a flat, padded stretcher with legs & wheels for transporting patients",
         "correct_response": "a gurney"
     },
+    "clue_J_5_2": {
+        "id": "302161",
+        "clue_html": "An evil, greedy type of creature in folklore, he also appears in &quot;Dungeons &amp; Dragons&quot;",
+        "clue_text": "An evil, greedy type of creature in folklore, he also appears in \"Dungeons & Dragons\"",
+        "correct_response": "a goblin"
+    },
+    "clue_J_5_3": {
+        "id": "302162",
+        "clue_html": "A diver can perform a full or half this",
+        "clue_text": "A diver can perform a full or half this",
+        "correct_response": "a gainer"
+    },
+    "clue_J_5_4": {
+        "id": "302163",
+        "clue_html": "To move in a circle, or around a fixed point",
+        "clue_text": "To move in a circle, or around a fixed point",
+        "correct_response": "gyrate"
+    },
+    "clue_J_5_5": {
+        "id": "302164",
+        "clue_html": "Crudely showy or tastelessly colorful",
+        "clue_text": "Crudely showy or tastelessly colorful",
+        "correct_response": "garish"
+    },
+
+
     "clue_J_6_1": {
         "id": "302165",
         "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_06.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Kansas City <a href=\"http://www.j-archive.com/media/2016-06-03_J_06a.jpg\" target=\"_blank\">barbeque sauce</a> is typically sweet &amp; tangy: sweet from brown sugar &amp;/or molasses, &amp; tangy from this, usually the cider or white type",
@@ -75,36 +209,6 @@
             "http://localhost:3000/media/2016-06-03_J_06.jpg",
             "http://localhost:3000/media/2016-06-03_J_06a.jpg"
         ]
-    },
-    "clue_J_1_2": {
-        "id": "302141",
-        "clue_html": "&quot;Broncoville&quot;",
-        "clue_text": "\"Broncoville\"",
-        "correct_response": "Denver"
-    },
-    "clue_J_2_2": {
-        "id": "302146",
-        "clue_html": "No. 7:<br>An ancient wheeled transport of war",
-        "clue_text": "No. 7:An ancient wheeled transport of war",
-        "correct_response": "a chariot"
-    },
-    "clue_J_3_2": {
-        "id": "302151",
-        "clue_html": "In 2002 this former New York City mayor published &quot;Leadership&quot;",
-        "clue_text": "In 2002 this former New York City mayor published \"Leadership\"",
-        "correct_response": "Giuliani"
-    },
-    "clue_J_4_2": {
-        "id": "302156",
-        "clue_html": "Vince Vaughn is Santa&apos;s brother:<br>&quot;____ Claus&quot;",
-        "clue_text": "Vince Vaughn is Santa's brother:\"____ Claus\"",
-        "correct_response": "Fred"
-    },
-    "clue_J_5_2": {
-        "id": "302161",
-        "clue_html": "An evil, greedy type of creature in folklore, he also appears in &quot;Dungeons &amp; Dragons&quot;",
-        "clue_text": "An evil, greedy type of creature in folklore, he also appears in \"Dungeons & Dragons\"",
-        "correct_response": "a goblin"
     },
     "clue_J_6_2": {
         "id": "302166",
@@ -116,37 +220,6 @@
             "http://localhost:3000/media/2016-06-03_J_07a.jpg"
         ]
     },
-    "clue_J_1_3": {
-        "id": "302142",
-        "daily_double": true,
-        "clue_html": "&quot;The Gateway to Glacier Bay National Park&quot;",
-        "clue_text": "\"The Gateway to Glacier Bay National Park\"",
-        "correct_response": "Juneau (Alaska)"
-    },
-    "clue_J_2_3": {
-        "id": "302147",
-        "clue_html": "No. 17:<br>Alpha or Beta in Aquarius",
-        "clue_text": "No. 17:Alpha or Beta in Aquarius",
-        "correct_response": "a star"
-    },
-    "clue_J_3_3": {
-        "id": "302152",
-        "clue_html": "Doris Kearns Goodwin&apos;s &quot;Team of Rivals: The Political Genius of&quot; this man was one basis for a Spielberg film",
-        "clue_text": "Doris Kearns Goodwin's \"Team of Rivals: The Political Genius of\" this man was one basis for a Spielberg film",
-        "correct_response": "Lincoln"
-    },
-    "clue_J_4_3": {
-        "id": "302157",
-        "clue_html": "Applause for Bette Davis:<br>&quot;All About ____&quot;",
-        "clue_text": "Applause for Bette Davis:\"All About ____\"",
-        "correct_response": "Eve"
-    },
-    "clue_J_5_3": {
-        "id": "302162",
-        "clue_html": "A diver can perform a full or half this",
-        "clue_text": "A diver can perform a full or half this",
-        "correct_response": "a gainer"
-    },
     "clue_J_6_3": {
         "id": "302167",
         "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_08.jpg\" target=\"_blank\">Kelly of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Containing a mixture of herbs &amp; spices including salt, garlic &amp; paprika, it&apos;s the two-word term for <a href=\"http://www.j-archive.com/media/2016-06-03_J_08a.jpg\" target=\"_blank\">what goes on the ribs first</a>",
@@ -156,36 +229,6 @@
             "http://localhost:3000/media/2016-06-03_J_08.jpg",
             "http://localhost:3000/media/2016-06-03_J_08a.jpg"
         ]
-    },
-    "clue_J_1_4": {
-        "id": "302143",
-        "clue_html": "&quot;The Queen on the James&quot;",
-        "clue_text": "\"The Queen on the James\"",
-        "correct_response": "Richmond (Virginia)"
-    },
-    "clue_J_2_4": {
-        "id": "302148",
-        "clue_html": "No. 4:<br>Napoleon, starting on Dec. 2, 1804",
-        "clue_text": "No. 4:Napoleon, starting on Dec. 2, 1804",
-        "correct_response": "emperor"
-    },
-    "clue_J_3_4": {
-        "id": "302153",
-        "clue_html": "He would know<span class=\"nobreak\">--</span>Henry Kissinger penned &quot;Years of Upheaval&quot;, &quot;On China&quot; &amp; &quot;Ending&quot; this conflict",
-        "clue_text": "He would know--Henry Kissinger penned \"Years of Upheaval\", \"On China\" & \"Ending\" this conflict",
-        "correct_response": "the Vietnam War"
-    },
-    "clue_J_4_4": {
-        "id": "302158",
-        "clue_html": "A post-apocalyptic tale starring Denzel:<br>&quot;The Book of ____&quot;",
-        "clue_text": "A post-apocalyptic tale starring Denzel:\"The Book of ____\"",
-        "correct_response": "Eli"
-    },
-    "clue_J_5_4": {
-        "id": "302163",
-        "clue_html": "To move in a circle, or around a fixed point",
-        "clue_text": "To move in a circle, or around a fixed point",
-        "correct_response": "gyrate"
     },
     "clue_J_6_4": {
         "id": "302168",
@@ -197,38 +240,6 @@
             "http://localhost:3000/media/2016-06-03_J_09.jpg"
         ]
     },
-    "clue_J_1_5": {
-        "id": "302144",
-        "triple_stumper": true,
-        "clue_html": "&quot;The Home of Frontier Days&quot;",
-        "clue_text": "\"The Home of Frontier Days\"",
-        "correct_response": "Cheyenne"
-    },
-    "clue_J_2_5": {
-        "id": "302149",
-        "clue_html": "No. 9:<br>Howard Hughes lived as one for the last years of his life",
-        "clue_text": "No. 9:Howard Hughes lived as one for the last years of his life",
-        "correct_response": "a hermit"
-    },
-    "clue_J_3_5": {
-        "id": "302154",
-        "triple_stumper": true,
-        "clue_html": "His criticism of Dick Cheney &amp; Donald Rumsfeld in the 2015 bio &quot;Destiny and Power&quot; made news",
-        "clue_text": "His criticism of Dick Cheney & Donald Rumsfeld in the 2015 bio \"Destiny and Power\" made news",
-        "correct_response": "George H.W. Bush"
-    },
-    "clue_J_4_5": {
-        "id": "302159",
-        "clue_html": "A comedic marriage of Adam Sandler &amp; Kevin James:<br>&quot;I Now Pronounce You ____ &amp; ____&quot;",
-        "clue_text": "A comedic marriage of Adam Sandler & Kevin James:\"I Now Pronounce You ____ & ____\"",
-        "correct_response": "Chuck & Larry"
-    },
-    "clue_J_5_5": {
-        "id": "302164",
-        "clue_html": "Crudely showy or tastelessly colorful",
-        "clue_text": "Crudely showy or tastelessly colorful",
-        "correct_response": "garish"
-    },
     "clue_J_6_5": {
         "id": "302169",
         "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_10.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  They sound overdone &amp; like something that might be discarded, but a specialty of Kansas City barbeque are <a href=\"http://www.j-archive.com/media/2016-06-03_J_10a.jpg\" target=\"_blank\">these</a> crusty cubes of brisket",
@@ -239,6 +250,8 @@
             "http://localhost:3000/media/2016-06-03_J_10a.jpg"
         ]
     },
+
+
     "category_DJ_1": {
         "category_name": "THE MAN WHO WOULD BE KING",
         "category_comments": "",
