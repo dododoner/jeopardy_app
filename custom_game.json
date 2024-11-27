@@ -22,23 +22,9 @@
     },
     "category_J_4": {
         "category_name": "GEOGRAPHY",
-        "category_comments": "(Alex: You fill in the gap.)",
+        "category_comments": "",
         "clue_count": 5
     },
-    "category_J_5": {
-        "category_name": "LIKE A G-6",
-        "category_comments": "(Alex: Each correct response will begin with a \"G\" and have six letters.)",
-        "clue_count": 5
-    },
-    "category_J_6": {
-        "category_name": "KANSAS CITY BARBEQUE",
-        "category_comments": "(Kelly: Some say it's the best in the country, and some say the best in the city is here at Arthur Bryant's.)",
-        "media": [
-            "http://localhost:3000/media/2016-06-03_J_Cat6.jpg"
-        ],
-        "clue_count": 5
-    },
-
 
     "clue_J_1_1": {
         "id": "302140",
@@ -124,9 +110,9 @@
     },
     "clue_J_3_4": {
         "id": "302153",
-        "clue_html": "",
-        "clue_text": "",
-        "correct_response": ""
+        "clue_html": "This is the city where the next AMaMef takes place",
+        "clue_text": "This is the city where the next AMaMef takes place",
+        "correct_response": "Verona"
     },
     "clue_J_3_5": {
         "id": "302154",
@@ -165,99 +151,5 @@
         "clue_html": "Named &quot;Tis Abbay&quot; in Amharic, this is one of Ethiopia&apos;s most well known tourist attractions",
         "clue_text": "Named \"Tis Abbay\" in Amharic, this is one of Ethiopia's most well known tourist attractions",
         "correct_response": "Blue Nile Falls, Tis-Issat-Fälle"
-    },
-
-
-    "clue_J_5_1": {
-        "id": "302160",
-        "clue_html": "It&apos;s a flat, padded stretcher with legs &amp; wheels for transporting patients",
-        "clue_text": "It's a flat, padded stretcher with legs & wheels for transporting patients",
-        "correct_response": "a gurney"
-    },
-    "clue_J_5_2": {
-        "id": "302161",
-        "clue_html": "An evil, greedy type of creature in folklore, he also appears in &quot;Dungeons &amp; Dragons&quot;",
-        "clue_text": "An evil, greedy type of creature in folklore, he also appears in \"Dungeons & Dragons\"",
-        "correct_response": "a goblin"
-    },
-    "clue_J_5_3": {
-        "id": "302162",
-        "clue_html": "A diver can perform a full or half this",
-        "clue_text": "A diver can perform a full or half this",
-        "correct_response": "a gainer"
-    },
-    "clue_J_5_4": {
-        "id": "302163",
-        "clue_html": "To move in a circle, or around a fixed point",
-        "clue_text": "To move in a circle, or around a fixed point",
-        "correct_response": "gyrate"
-    },
-    "clue_J_5_5": {
-        "id": "302164",
-        "clue_html": "Crudely showy or tastelessly colorful",
-        "clue_text": "Crudely showy or tastelessly colorful",
-        "correct_response": "garish"
-    },
-
-
-    "clue_J_6_1": {
-        "id": "302165",
-        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_06.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Kansas City <a href=\"http://www.j-archive.com/media/2016-06-03_J_06a.jpg\" target=\"_blank\">barbeque sauce</a> is typically sweet &amp; tangy: sweet from brown sugar &amp;/or molasses, &amp; tangy from this, usually the cider or white type",
-        "clue_text": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Kansas City barbeque sauce is typically sweet & tangy: sweet from brown sugar &/or molasses, & tangy from this, usually the cider or white type",
-        "correct_response": "vinegar",
-        "media": [
-            "http://localhost:3000/media/2016-06-03_J_06.jpg",
-            "http://localhost:3000/media/2016-06-03_J_06a.jpg"
-        ]
-    },
-    "clue_J_6_2": {
-        "id": "302166",
-        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_07.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Some people call them racks, but Arthur Bryant&apos;s serves their ribs in <a href=\"http://www.j-archive.com/media/2016-06-03_J_07a.jpg\" target=\"_blank\">these</a> thick, meaty units",
-        "clue_text": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Some people call them racks, but Arthur Bryant's serves their ribs in these thick, meaty units",
-        "correct_response": "slabs",
-        "media": [
-            "http://localhost:3000/media/2016-06-03_J_07.jpg",
-            "http://localhost:3000/media/2016-06-03_J_07a.jpg"
-        ]
-    },
-    "clue_J_6_3": {
-        "id": "302167",
-        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_08.jpg\" target=\"_blank\">Kelly of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Containing a mixture of herbs &amp; spices including salt, garlic &amp; paprika, it&apos;s the two-word term for <a href=\"http://www.j-archive.com/media/2016-06-03_J_08a.jpg\" target=\"_blank\">what goes on the ribs first</a>",
-        "clue_text": "(Kelly of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Containing a mixture of herbs & spices including salt, garlic & paprika, it's the two-word term for what goes on the ribs first",
-        "correct_response": "dry rub",
-        "media": [
-            "http://localhost:3000/media/2016-06-03_J_08.jpg",
-            "http://localhost:3000/media/2016-06-03_J_08a.jpg"
-        ]
-    },
-    "clue_J_6_4": {
-        "id": "302168",
-        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_09a.jpg\" target=\"_blank\">Kelly of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  Contributing to the meat&apos;s flavor is the type of wood used in the smoker; <a href=\"http://www.j-archive.com/media/2016-06-03_J_09.jpg\" target=\"_blank\">here</a>, it&apos;s a combination of oak &amp; this common hardwood, popular for traditional barbeque flavor",
-        "clue_text": "(Kelly of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Contributing to the meat's flavor is the type of wood used in the smoker; here, it's a combination of oak & this common hardwood, popular for traditional barbeque flavor",
-        "correct_response": "hickory",
-        "media": [
-            "http://localhost:3000/media/2016-06-03_J_09a.jpg",
-            "http://localhost:3000/media/2016-06-03_J_09.jpg"
-        ]
-    },
-    "clue_J_6_5": {
-        "id": "302169",
-        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-06-03_J_10.jpg\" target=\"_blank\">Jimmy of the Clue Crew presents from Arthur Bryant&apos;s Barbeque in Kansas City, MO.</a>)  They sound overdone &amp; like something that might be discarded, but a specialty of Kansas City barbeque are <a href=\"http://www.j-archive.com/media/2016-06-03_J_10a.jpg\" target=\"_blank\">these</a> crusty cubes of brisket",
-        "clue_text": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  They sound overdone & like something that might be discarded, but a specialty of Kansas City barbeque are these crusty cubes of brisket",
-        "correct_response": "burnt ends",
-        "media": [
-            "http://localhost:3000/media/2016-06-03_J_10.jpg",
-            "http://localhost:3000/media/2016-06-03_J_10a.jpg"
-        ]
-    },
-
-    "category_FJ_1": {
-        "category_name": "BUSINESS",
-        "category_comments": ""
-    },
-    "clue_FJ": {
-        "clue_html": "This alliterative beverage chain says it gets its name from an African word meaning &quot;to celebrate&quot;",
-        "clue_text": "This alliterative beverage chain says it gets its name from an African word meaning \"to celebrate\"",
-        "correct_response": "Jamba Juice"
     }
 }

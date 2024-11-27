@@ -13,13 +13,13 @@ each k in ['J', 'DJ']
         span(ng-show='game.round == "FJ"') Final
         |  Jeopardy!
     .row.board-row.category-row
-      each i in [1, 2, 3, 4, 5, 6]
-        .col-md-2.text-center.board-cell.category-cell
+      each i in [1, 2, 3, 4]
+        .col-md-3.text-center.board-cell.category-cell
           div {{data.category_#{k}_#{i}.category_name}}
     each j in [1, 2, 3, 4, 5]
       .row.board-row
-        each i in [1, 2, 3, 4, 5, 6]
-          .col-md-2.text-center.board-cell.clue-cell
+        each i in [1, 2, 3, 4]
+          .col-md-3.text-center.board-cell.clue-cell
             div(ng-show='data.clue_#{k}_#{i}_#{j} && !game.clue_#{k}_#{i}_#{j}') $#{j * (k == 'J' ? 200 : 400)}
 .container-fluid.jeopardy-board(ng-show='game.round == "FJ" || game.round == "end"')
   .row.fj-row
